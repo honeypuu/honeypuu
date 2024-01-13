@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annie
 - 👀 I’m interested in lifting weights, playing the piano and spending time with my dog 
-- 🌱 I’m currently learning C, AL and Java
+- 🌱 I’m currently learning C, AL, SQL and Java
 - 😄 Pronouns: she/her
 
 <!---
