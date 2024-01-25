@@ -1,4 +1,5 @@
 Hi, I'm Annie
+
 I'm a 18-year-old developer based in Germany. ☾⋆⁺₊🎧✧
 
 Currently learning C, AL, SQL and Java
